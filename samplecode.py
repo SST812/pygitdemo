@@ -3,4 +3,5 @@ print(" ".join(a))
 
 print("ok good job, written in github")
 
-print("trying to write this new branch, from pycharm, after this trying to edit this print statement in github")
+print("4th print statement was now completely changed in student and trying to merge with master")
+print("additional matter is properly merged, now changing the print statement it self to see how merge works")
